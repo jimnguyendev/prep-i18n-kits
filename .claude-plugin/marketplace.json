@@ -1,0 +1,15 @@
+{
+  "name": "prep-i18n",
+  "description": "Prep internal: one translation kit shared by every team.",
+  "owner": {
+    "name": "Prep"
+  },
+  "plugins": [
+    {
+      "name": "prep-i18n",
+      "source": "./",
+      "description": "Consistent UI translation across all Prep products and teams.",
+      "version": "0.1.0"
+    }
+  ]
+}

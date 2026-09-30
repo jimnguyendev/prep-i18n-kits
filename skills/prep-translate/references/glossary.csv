@@ -1,0 +1,213 @@
+term,lang,text,status,match,case_sensitive,source,note
+Annual,zh-Hant,僅限年繳,approved,label,no,"TW local team, TW_Localization feedback (Sep 2026)","When it marks a plan restricted to annual billing (""limited to annual plan""). The billing-period toggle is 年繳."
+attempt,ko,응시,approved,hint,no,"KR local team, KR_Localization feedback","A test attempt/sitting (""Free trial attempt"" → 무료 체험 응시). Not 시도. For a submitted answer use 답안."
+Band-score guarantee,ko,밴드 스코어 보장제,approved,word,no,"KR local team, KR_Localization feedback",Not 점수 보장.
+Band-score guarantee,zh-Hant,目標分數保證,approved,word,no,"TW local team, TW_Localization feedback (Sep 2026)",
+Core,id,Core (web) | Inti (app),conflict,word,yes,measured web+app 30/09/2026,Plan name.
+Core,ja,コア,consistent,word,yes,measured web+app 30/09/2026,Plan name.
+Core,ko,코어,consistent,word,yes,measured web+app 30/09/2026,Plan name.
+Core,th,Core,consistent,word,yes,measured web+app 30/09/2026,Plan name.
+Core,vi,Core (web) | Cơ bản (app),conflict,word,yes,measured web+app 30/09/2026,Plan name.
+Core,zh-Hans,核心版,consistent,word,yes,measured web+app 30/09/2026,Plan name.
+Core,zh-Hant,Core,approved,word,yes,"TW local team, TW_Localization feedback (Sep 2026)",Plan name stays Latin.
+Dictation,vi,Nghe chép chính tả,proposed,word,no,measured web+app 30/09/2026,"Practice mode. vi: ""Nghe chép chính tả"" (seen in product)."
+Entry level,id,Level awal (web) | Tingkat awal (app),conflict,label,no,measured web+app 30/09/2026,Learner's current band before studying.
+Entry level,ja,入門レベル (web) | エントリーレベル (app),conflict,label,no,measured web+app 30/09/2026,Learner's current band before studying.
+Entry level,ko,입문 레벨,consistent,label,no,measured web+app 30/09/2026,Learner's current band before studying.
+Entry level,th,ระดับเริ่มต้น,consistent,label,no,measured web+app 30/09/2026,Learner's current band before studying.
+Entry level,vi,Trình độ đầu vào,consistent,label,no,measured web+app 30/09/2026,Learner's current band before studying.
+Entry level,zh-Hans,入学水平,consistent,label,no,measured web+app 30/09/2026,Learner's current band before studying.
+Entry level,zh-Hant,起始程度 (web) | 入門程度 (app),conflict,label,no,measured web+app 30/09/2026,Learner's current band before studying.
+Exam Library,ko,시험 자료실,approved,word,no,"KR local team, KR_Localization feedback",Not 시험 라이브러리.
+Exam Library,zh-Hant,題庫資源,approved,word,no,"TW local team, TW_Localization feedback (Sep 2026)","Also ""Test library""."
+Explanation,id,Penjelasan,consistent,label,no,measured web+app 30/09/2026,Answer explanation for a question.
+Explanation,ja,解説 (web) | 説明 (app),conflict,label,no,measured web+app 30/09/2026,Answer explanation for a question.
+Explanation,ko,해설 (web) | 설명 (app),conflict,label,no,measured web+app 30/09/2026,Answer explanation for a question.
+Explanation,th,คำอธิบาย,consistent,label,no,measured web+app 30/09/2026,Answer explanation for a question.
+Explanation,vi,Giải thích,consistent,label,no,measured web+app 30/09/2026,Answer explanation for a question.
+Explanation,zh-Hans,解释 (web) | 解析 (app),conflict,label,no,measured web+app 30/09/2026,Answer explanation for a question.
+Explanation,zh-Hant,說明,consistent,label,no,measured web+app 30/09/2026,Answer explanation for a question.
+Fluency and Coherence,zh-Hant,Fluency and Coherence,approved,word,no,"TW local team, TW_Localization feedback (Sep 2026)",IELTS criterion; English for TW.
+Forecast,id,Perkiraan (app+web) | Prediksi (app),conflict,label,no,measured web+app 30/09/2026,Tag for forecast (predicted) test sets.
+Forecast,ja,予測,consistent,label,no,measured web+app 30/09/2026,Tag for forecast (predicted) test sets.
+Forecast,ko,예상 (app+web) | 예측 (app),conflict,label,no,measured web+app 30/09/2026,Tag for forecast (predicted) test sets.
+Forecast,th,การคาดการณ์,consistent,label,no,measured web+app 30/09/2026,Tag for forecast (predicted) test sets.
+Forecast,vi,Dự đoán,consistent,label,no,measured web+app 30/09/2026,Tag for forecast (predicted) test sets.
+Forecast,zh-Hans,预测,consistent,label,no,measured web+app 30/09/2026,Tag for forecast (predicted) test sets.
+Forecast,zh-Hant,預測,approved,label,no,"TW local team, TW_Localization feedback (Sep 2026)",Tag.
+Free,id,Gratis,consistent,label,yes,measured web+app 30/09/2026,"Plan name (Free tier) and the adjective ""free of charge""."
+Free,ja,無料,consistent,label,yes,measured web+app 30/09/2026,"Plan name (Free tier) and the adjective ""free of charge""."
+Free,ko,무료,consistent,label,yes,measured web+app 30/09/2026,"Plan name (Free tier) and the adjective ""free of charge""."
+Free,th,ฟรี,consistent,label,yes,measured web+app 30/09/2026,"Plan name (Free tier) and the adjective ""free of charge""."
+Free,vi,Miễn phí,consistent,label,yes,measured web+app 30/09/2026,"Plan name (Free tier) and the adjective ""free of charge""."
+Free,zh-Hans,免费 (app+web) | 免费版 (web),conflict,label,yes,measured web+app 30/09/2026,"Plan name (Free tier) and the adjective ""free of charge""."
+Free,zh-Hant,Free,approved,label,yes,"TW local team, TW_Localization feedback (Sep 2026)","Plan name stays Latin: ""Free 可以獲得什麼？"". The adjective ""free"" is 免費."
+Full test,id,Tes Lengkap,proposed,label,no,measured web+app 30/09/2026,A complete 4-skill test. Seen only in app.
+Full test,ja,フルテスト,proposed,label,no,measured web+app 30/09/2026,A complete 4-skill test. Seen only in app.
+Full test,ko,전체 시험,proposed,label,no,measured web+app 30/09/2026,A complete 4-skill test. Seen only in app.
+Full test,th,แบบทดสอบฉบับเต็ม,proposed,label,no,measured web+app 30/09/2026,A complete 4-skill test. Seen only in app.
+Full test,vi,Bài thi đầy đủ,proposed,label,no,measured web+app 30/09/2026,A complete 4-skill test. Seen only in app.
+Full test,zh-Hans,完整测试,proposed,label,no,measured web+app 30/09/2026,A complete 4-skill test. Seen only in app.
+Full test,zh-Hant,完整測驗,proposed,label,no,measured web+app 30/09/2026,A complete 4-skill test. Seen only in app.
+Go Premium,id,Beralih ke Premium (app+web) | Pilih Premium (web),conflict,label,no,measured web+app 30/09/2026,CTA to buy Premium.
+Go Premium,ja,プレミアムにアップグレード (app+web) | プレミアムに登録 (web),conflict,label,no,measured web+app 30/09/2026,CTA to buy Premium.
+Go Premium,ko,프리미엄으로 업그레이드 (app+web) | 프리미엄 시작하기 (web),conflict,label,no,measured web+app 30/09/2026,CTA to buy Premium.
+Go Premium,th,อัปเกรดเป็นพรีเมียม (app+web) | สมัครพรีเมียม (web),conflict,label,no,measured web+app 30/09/2026,CTA to buy Premium.
+Go Premium,vi,Dùng Premium (web) | Nâng cấp Pro (web) | Nâng cấp Premium (app),conflict,label,no,measured web+app 30/09/2026,CTA to buy Premium.
+Go Premium,zh-Hans,升级高级版 (app+web) | 升级至高级版 (web),conflict,label,no,measured web+app 30/09/2026,CTA to buy Premium.
+Go Premium,zh-Hant,升級至 Premium (app+web) | 選擇 Premium (web),conflict,label,no,measured web+app 30/09/2026,CTA to buy Premium.
+Go Pro,id,Beralih ke Pro (web) | Dapatkan PRO (app),conflict,label,no,measured web+app 30/09/2026,CTA to buy Pro.
+Go Pro,ja,Proにアップグレード (web) | PROにアップグレード (app),conflict,label,no,measured web+app 30/09/2026,CTA to buy Pro.
+Go Pro,ko,Pro로 업그레이드 (web) | PRO로 업그레이드 (app),conflict,label,no,measured web+app 30/09/2026,CTA to buy Pro.
+Go Pro,th,อัปเกรดเป็น Pro (web) | สมัคร PRO (app),conflict,label,no,measured web+app 30/09/2026,CTA to buy Pro.
+Go Pro,vi,Nâng cấp Pro (web) | Nâng cấp PRO (app),conflict,label,no,measured web+app 30/09/2026,CTA to buy Pro.
+Go Pro,zh-Hans,升级专业版 (web) | 升级为 PRO (app),conflict,label,no,measured web+app 30/09/2026,CTA to buy Pro.
+Go Pro,zh-Hant,升級專業版 (web) | 升級 PRO (app),conflict,label,no,measured web+app 30/09/2026,CTA to buy Pro.
+Grammar,id,Tata bahasa,proposed,label,no,measured web+app 30/09/2026,Seen only in app.
+Grammar,ja,文法,proposed,label,no,measured web+app 30/09/2026,Seen only in app.
+Grammar,ko,문법,proposed,label,no,measured web+app 30/09/2026,Seen only in app.
+Grammar,th,ไวยากรณ์,proposed,label,no,measured web+app 30/09/2026,Seen only in app.
+Grammar,vi,Ngữ pháp,proposed,label,no,measured web+app 30/09/2026,Seen only in app.
+Grammar,zh-Hans,语法,proposed,label,no,measured web+app 30/09/2026,Seen only in app.
+Grammar,zh-Hant,文法,proposed,label,no,measured web+app 30/09/2026,Seen only in app.
+Grammatical Range and Accuracy,zh-Hant,Grammatical Range and Accuracy,approved,word,no,"TW local team, TW_Localization feedback (Sep 2026)",IELTS criterion; English for TW.
+Hot,id,Populer (app+web) | POPULER (app+web),conflict,label,no,measured web+app 30/09/2026,Tag for trending test sets.
+Hot,ja,人気,consistent,label,no,measured web+app 30/09/2026,Tag for trending test sets.
+Hot,ko,인기,consistent,label,no,measured web+app 30/09/2026,Tag for trending test sets.
+Hot,th,ยอดนิยม (app+web) | ยอดฮิต (app),conflict,label,no,measured web+app 30/09/2026,Tag for trending test sets.
+Hot,vi,Hot (app+web) | HOT (app+web),conflict,label,no,measured web+app 30/09/2026,Tag for trending test sets.
+Hot,zh-Hans,热门,consistent,label,no,measured web+app 30/09/2026,Tag for trending test sets.
+Hot,zh-Hant,熱門,approved,label,no,"TW local team, TW_Localization feedback (Sep 2026)",Tag.
+IELTS,id,IELTS,consistent,word,yes,measured web+app 30/09/2026 (IELTS appears untranslated 25–32× per locale),Exam name. Never translate. Seen only in web.
+IELTS,ja,IELTS,consistent,word,yes,measured web+app 30/09/2026 (IELTS appears untranslated 25–32× per locale),Exam name. Never translate. Seen only in web.
+IELTS,ko,IELTS,consistent,word,yes,measured web+app 30/09/2026 (IELTS appears untranslated 25–32× per locale),Exam name. Never translate. Seen only in web.
+IELTS,th,IELTS,consistent,word,yes,measured web+app 30/09/2026 (IELTS appears untranslated 25–32× per locale),Exam name. Never translate. Seen only in web.
+IELTS,vi,IELTS,consistent,word,yes,measured web+app 30/09/2026 (IELTS appears untranslated 25–32× per locale),Exam name. Never translate. Seen only in web.
+IELTS,zh-Hans,雅思,proposed,word,yes,web zh-hans uses 雅思 25/25; app mixes 雅思 and IELTS,
+IELTS,zh-Hant,雅思,approved,word,yes,"TW local team, TW_Localization feedback (Sep 2026)","Taiwan writes 雅思. Hong Kong keeps ""IELTS"" (HK feedback) — only relevant if a zh-Hant-HK locale is added."
+Learning profile,id,Profil Belajar,consistent,word,no,measured web+app 30/09/2026,Learner profile feature.
+Learning profile,ja,学習プロフィール,consistent,word,no,measured web+app 30/09/2026,Learner profile feature.
+Learning profile,ko,학습 프로필,consistent,word,no,measured web+app 30/09/2026,Learner profile feature.
+Learning profile,th,โปรไฟล์การเรียนรู้ (web) | Learning Profile (app),conflict,word,no,measured web+app 30/09/2026,Learner profile feature.
+Learning profile,vi,Learning Profile,consistent,word,no,measured web+app 30/09/2026,Learner profile feature.
+Learning profile,zh-Hans,学习档案,consistent,word,no,measured web+app 30/09/2026,Learner profile feature.
+Learning profile,zh-Hant,學習檔案,consistent,word,no,measured web+app 30/09/2026,Learner profile feature.
+Lexical Resource,ko,어휘 사용 능력,approved,word,no,"KR local team, KR_Localization feedback",IELTS criterion. Not 어휘 자원 (literal AI rendering).
+Lexical Resource,zh-Hant,Lexical Resource,approved,word,no,"TW local team, TW_Localization feedback (Sep 2026)",IELTS criterion names stay in English for TW.
+Listening,zh-Hant,聽力,approved,word,no,"TW local team, TW_Localization feedback (Sep 2026)",Skill name. Not 聆聽 (Hong Kong).
+Log out,id,Keluar,consistent,label,no,measured web+app 30/09/2026,
+Log out,ja,ログアウト,consistent,label,no,measured web+app 30/09/2026,
+Log out,ko,로그아웃,consistent,label,no,measured web+app 30/09/2026,
+Log out,th,ออกจากระบบ,consistent,label,no,measured web+app 30/09/2026,
+Log out,vi,Đăng xuất,consistent,label,no,measured web+app 30/09/2026,
+Log out,zh-Hans,注销,consistent,label,no,measured web+app 30/09/2026,"Both products use 注销, but in mainland UI it often reads as ""deactivate account""; 退出登录 is the usual phrase (raised by two reviewers). Keep 注销 for consistency and report it — the content team changes both products together."
+Log out,zh-Hant,登出,consistent,label,no,measured web+app 30/09/2026,
+Monthly,zh-Hant,月繳,approved,label,no,"TW local team, TW_Localization feedback (Sep 2026)",Billing period.
+Overall,id,Ringkasan (app+web) | Keseluruhan (app),conflict,label,no,measured web+app 30/09/2026,IELTS overall band / overall result.
+Overall,ja,総合 (web) | 全体的に (app) | 全体 (app) | 総合スコア (app),conflict,label,no,measured web+app 30/09/2026,IELTS overall band / overall result.
+Overall,ko,종합 (web) | 전체 (app),conflict,label,no,measured web+app 30/09/2026,IELTS overall band / overall result.
+Overall,th,ผลโดยรวม (web) | ภาพรวม (app) | ผลลัพธ์โดยรวม (app),conflict,label,no,measured web+app 30/09/2026,IELTS overall band / overall result.
+Overall,vi,Kết quả tổng quan (app+web) | Tổng quan (app),conflict,label,no,measured web+app 30/09/2026,IELTS overall band / overall result.
+Overall,zh-Hans,Overall (web) | 整体表现 (app),conflict,label,no,measured web+app 30/09/2026,IELTS overall band / overall result.
+Overall,zh-Hant,總分,approved,label,no,"TW local team, TW_Localization feedback (Sep 2026)",IELTS overall band.
+Practice Labs,id,LAB LATIHAN (web) | Lab Latihan (app),conflict,word,no,measured web+app 30/09/2026,Product area name.
+Practice Labs,ja,練習ラボ,consistent,word,no,measured web+app 30/09/2026,Product area name.
+Practice Labs,ko,연습 랩,consistent,word,no,measured web+app 30/09/2026,Product area name.
+Practice Labs,th,ห้องปฏิบัติการฝึกหัด (web) | ห้องฝึกฝน (app),conflict,word,no,measured web+app 30/09/2026,Product area name.
+Practice Labs,vi,PHÒNG LUYỆN TẬP (web) | Phòng Luyện tập (app),conflict,word,no,measured web+app 30/09/2026,Product area name.
+Practice Labs,zh-Hans,练习实验室 (web) | 练习中心 (app),conflict,word,no,measured web+app 30/09/2026,Product area name.
+Practice Labs,zh-Hant,練習實驗室,consistent,word,no,measured web+app 30/09/2026,Product area name.
+Premium,id,Premium,consistent,word,yes,measured web+app 30/09/2026,"Plan name. The plan label and CTAs like ""Go Premium"" must agree."
+Premium,ja,プレミアム,consistent,word,yes,measured web+app 30/09/2026,"Plan name. The plan label and CTAs like ""Go Premium"" must agree."
+Premium,ko,프리미엄,consistent,word,yes,measured web+app 30/09/2026,"Plan name. The plan label and CTAs like ""Go Premium"" must agree."
+Premium,th,พรีเมียม,consistent,word,yes,measured web+app 30/09/2026,"Plan name. The plan label and CTAs like ""Go Premium"" must agree."
+Premium,vi,Cao cấp,consistent,word,yes,measured web+app 30/09/2026,"Plan name. The plan label and CTAs like ""Go Premium"" must agree."
+Premium,zh-Hans,高级版,consistent,word,yes,measured web+app 30/09/2026,"Plan name. The plan label and CTAs like ""Go Premium"" must agree."
+Premium,zh-Hant,Premium,approved,word,yes,"TW local team, TW_Localization feedback (Sep 2026)",Plan name stays Latin.
+Prep,id,Prep,consistent,word,yes,measured web+app 30/09/2026 (IELTS appears untranslated 25–32× per locale),Company/brand name. Never translate.
+Prep,ja,Prep,consistent,word,yes,measured web+app 30/09/2026 (IELTS appears untranslated 25–32× per locale),Company/brand name. Never translate.
+Prep,ko,Prep,consistent,word,yes,measured web+app 30/09/2026 (IELTS appears untranslated 25–32× per locale),Company/brand name. Never translate.
+Prep,th,Prep,consistent,word,yes,measured web+app 30/09/2026 (IELTS appears untranslated 25–32× per locale),Company/brand name. Never translate.
+Prep,vi,Prep,consistent,word,yes,measured web+app 30/09/2026 (IELTS appears untranslated 25–32× per locale),Company/brand name. Never translate.
+Prep,zh-Hans,Prep,consistent,word,yes,measured web+app 30/09/2026,Company/brand name. Never translate.
+Prep,zh-Hant,Prep,consistent,word,yes,measured web+app 30/09/2026,Company/brand name. Never translate.
+Pricing,zh-Hant,方案價格,approved,label,no,"TW local team, TW_Localization feedback (Sep 2026)",
+Pro,id,Pro (app+web) | PRO (app),conflict,word,yes,measured web+app 30/09/2026,"Plan name. Keep the brand casing ""Pro"", never ""PRO""."
+Pro,ja,Pro (app+web) | プロ (web) | PRO (app),conflict,word,yes,measured web+app 30/09/2026,"Plan name. Keep the brand casing ""Pro"", never ""PRO""."
+Pro,ko,프로 (app+web) | Pro (web) | PRO (app),conflict,word,yes,measured web+app 30/09/2026,"Plan name. Keep the brand casing ""Pro"", never ""PRO""."
+Pro,th,Pro (web) | โปร (app) | PRO (app),conflict,word,yes,measured web+app 30/09/2026,"Plan name. Keep the brand casing ""Pro"", never ""PRO""."
+Pro,vi,Pro (app+web) | PRO (app),conflict,word,yes,measured web+app 30/09/2026,"Plan name. Keep the brand casing ""Pro"", never ""PRO""."
+Pro,zh-Hans,专业版 (app+web) | PRO (app),conflict,word,yes,measured web+app 30/09/2026,"Plan name. Keep the brand casing ""Pro"", never ""PRO""."
+Pro,zh-Hant,專業,approved,label,yes,"TW local team, TW_Localization feedback (Sep 2026)",As approved by TW. Note web elsewhere uses 專業版.
+Pronunciation,zh-Hant,Pronunciation,approved,word,no,"TW local team, TW_Localization feedback (Sep 2026)",IELTS criterion; English for TW.
+Reading,zh-Hant,閱讀,approved,word,no,"TW local team, TW_Localization feedback (Sep 2026)",Skill name.
+Retake,id,Ulangi,consistent,label,no,measured web+app 30/09/2026,Take the same test again.
+Retake,ja,受け直す (web) | 再試行する (app) | 再受験する (app) | やり直し (app) | やり直す (app) | 再挑戦 (app) | 再チャレンジ (app) | 試験を再チャレンジ (app) | 再挑戦する (app),conflict,label,no,measured web+app 30/09/2026,Take the same test again.
+Retake,ko,재응시 (web) | 다시 풀기 (app),conflict,label,no,measured web+app 30/09/2026,Take the same test again.
+Retake,th,ทำ Test อีกครั้ง (web) | เอาใหม่ (app) | ทำใหม่ (app) | ทำแบบทดสอบอีกครั้ง (app),conflict,label,no,measured web+app 30/09/2026,Take the same test again.
+Retake,vi,Bắt đầu làm lại (web) | Làm lại (app) | Làm lại bài (app),conflict,label,no,measured web+app 30/09/2026,Take the same test again.
+Retake,zh-Hans,重试,consistent,label,no,measured web+app 30/09/2026,Take the same test again.
+Retake,zh-Hant,重考 (app+web) | 重做 (app),conflict,label,no,measured web+app 30/09/2026,Take the same test again.
+Score,id,Skor,proposed,label,no,measured web+app 30/09/2026,Numeric score (not band). Seen only in app.
+Score,ja,スコア (app) | 採点 (app),conflict,label,no,measured web+app 30/09/2026,Numeric score (not band).
+Score,ko,점수,proposed,label,no,measured web+app 30/09/2026,Numeric score (not band). Seen only in app.
+Score,th,คะแนน,proposed,label,no,measured web+app 30/09/2026,Numeric score (not band). Seen only in app.
+Score,vi,Điểm số (app) | Điểm (app),conflict,label,no,measured web+app 30/09/2026,Numeric score (not band).
+Score,zh-Hans,分数 (app) | / (app),conflict,label,no,measured web+app 30/09/2026,Numeric score (not band).
+Score,zh-Hant,分數,proposed,label,no,measured web+app 30/09/2026,Numeric score (not band). Seen only in app.
+Shadowing,vi,Nói đuổi,proposed,word,no,measured web+app 30/09/2026,"Practice mode. vi: ""Nói đuổi"" (seen in product)."
+Speaking,zh-Hant,口說,approved,word,no,"TW local team, TW_Localization feedback (Sep 2026)",Skill name. Not 口語 (that is Hong Kong).
+Study plan,id,Rencana Belajar,proposed,word,no,measured web+app 30/09/2026,Personal study plan feature. Seen only in app.
+Study plan,ja,学習プラン,proposed,word,no,measured web+app 30/09/2026,Personal study plan feature. Seen only in app.
+Study plan,ko,학습 계획,proposed,word,no,measured web+app 30/09/2026,Personal study plan feature. Seen only in app.
+Study plan,th,Study Plan,proposed,word,no,measured web+app 30/09/2026,Personal study plan feature. Seen only in app.
+Study plan,vi,Study Plan,proposed,word,no,measured web+app 30/09/2026,Personal study plan feature. Seen only in app.
+Study plan,zh-Hans,学习计划,proposed,word,no,measured web+app 30/09/2026,Personal study plan feature. Seen only in app.
+Study plan,zh-Hant,學習計畫,proposed,word,no,measured web+app 30/09/2026,Personal study plan feature. Seen only in app.
+Target,id,Target,proposed,label,no,measured web+app 30/09/2026,Learner's target band. Seen only in app.
+Target,ja,目標,proposed,label,no,measured web+app 30/09/2026,Learner's target band. Seen only in app.
+Target,ko,목표,proposed,label,no,measured web+app 30/09/2026,Learner's target band. Seen only in app.
+Target,th,เป้าหมาย,proposed,label,no,measured web+app 30/09/2026,Learner's target band. Seen only in app.
+Target,vi,Mục tiêu,proposed,label,no,measured web+app 30/09/2026,Learner's target band. Seen only in app.
+Target,zh-Hans,目标成绩,proposed,label,no,measured web+app 30/09/2026,Learner's target band. Seen only in app.
+Target,zh-Hant,目標級別,proposed,label,no,measured web+app 30/09/2026,Learner's target band. Seen only in app.
+Test library,ko,시험 자료실,approved,word,no,"KR local team, KR_Localization feedback",Not 시험 라이브러리.
+Test library,zh-Hant,題庫資源,approved,word,no,"TW local team, TW_Localization feedback (Sep 2026)",
+Transcript,id,Transkrip,proposed,label,no,measured web+app 30/09/2026,Audio transcript. Seen only in app.
+Transcript,ja,書き起こし,proposed,label,no,measured web+app 30/09/2026,Audio transcript. Seen only in app.
+Transcript,ko,음성 기록,proposed,label,no,measured web+app 30/09/2026,Audio transcript. Seen only in app.
+Transcript,th,บทถอดเสียง,proposed,label,no,measured web+app 30/09/2026,Audio transcript. Seen only in app.
+Transcript,vi,Bản ghi,proposed,label,no,measured web+app 30/09/2026,Audio transcript. Seen only in app.
+Transcript,zh-Hans,录音文本,proposed,label,no,measured web+app 30/09/2026,Audio transcript. Seen only in app.
+Transcript,zh-Hant,逐字稿,proposed,label,no,measured web+app 30/09/2026,Audio transcript. Seen only in app.
+Try again,id,Coba lagi,consistent,label,no,measured web+app 30/09/2026,Retry after an error or failed action (not a test retake).
+Try again,ja,やり直し (web) | 再試行 (web) | もう一度試す (app) | もう一度お試しください (app),conflict,label,no,measured web+app 30/09/2026,Retry after an error or failed action (not a test retake).
+Try again,ko,다시 시도 (app+web) | 다시 시도하기 (app),conflict,label,no,measured web+app 30/09/2026,Retry after an error or failed action (not a test retake).
+Try again,th,ลองอีกครั้ง,consistent,label,no,measured web+app 30/09/2026,Retry after an error or failed action (not a test retake).
+Try again,vi,Làm lại (app+web) | Thử lại (app+web),conflict,label,no,measured web+app 30/09/2026,Retry after an error or failed action (not a test retake).
+Try again,zh-Hans,重试 (app+web) | 再试一次 (web),conflict,label,no,measured web+app 30/09/2026,Retry after an error or failed action (not a test retake).
+Try again,zh-Hant,再試一次,approved,label,no,"TW local team, TW_Localization feedback (Sep 2026)",
+Upgrade,id,Tingkatkan,proposed,label,no,measured web+app 30/09/2026,Buy or move to a higher plan. Seen only in app.
+Upgrade,ja,アップグレードする (app) | アップグレード (app),conflict,label,no,measured web+app 30/09/2026,Buy or move to a higher plan.
+Upgrade,ko,업그레이드,proposed,label,no,measured web+app 30/09/2026,Buy or move to a higher plan. Seen only in app.
+Upgrade,th,อัพเกรด (app) | อัปเกรด (app),conflict,label,no,measured web+app 30/09/2026,Buy or move to a higher plan.
+Upgrade,vi,Nâng cấp,proposed,label,no,measured web+app 30/09/2026,Buy or move to a higher plan. Seen only in app.
+Upgrade,zh-Hans,升级,proposed,label,no,measured web+app 30/09/2026,Buy or move to a higher plan. Seen only in app.
+Upgrade,zh-Hant,升級,proposed,label,no,measured web+app 30/09/2026,Buy or move to a higher plan. Seen only in app.
+Virtual Room,id,Virtual Room,proposed,word,no,measured web+app 30/09/2026,Timed exam room feature. Seen only in web.
+Virtual Room,ja,バーチャルルーム,proposed,word,no,measured web+app 30/09/2026,Timed exam room feature. Seen only in web.
+Virtual Room,ko,가상 시험실,proposed,word,no,measured web+app 30/09/2026,Timed exam room feature. Seen only in web.
+Virtual Room,th,Virtual Room,proposed,word,no,measured web+app 30/09/2026,Timed exam room feature. Seen only in web.
+Virtual Room,vi,Virtual Room,proposed,word,no,measured web+app 30/09/2026,Timed exam room feature. Seen only in web.
+Virtual Room,zh-Hans,虚拟练习室,proposed,word,no,measured web+app 30/09/2026,Timed exam room feature. Seen only in web.
+Virtual Room,zh-Hant,虛擬練習室,proposed,word,no,measured web+app 30/09/2026,Timed exam room feature. Seen only in web.
+Virtual Speaking Room,zh-Hant,線上口說練習室,approved,word,no,"TW local team, TW_Localization feedback (Sep 2026)",
+Virtual Writing Room,zh-Hant,線上寫作練習室,approved,word,no,"TW local team, TW_Localization feedback (Sep 2026)",
+Vocabulary,id,Kosakata,proposed,label,no,measured web+app 30/09/2026,Seen only in app.
+Vocabulary,ja,語彙,proposed,label,no,measured web+app 30/09/2026,Seen only in app.
+Vocabulary,ko,어휘 능력,proposed,label,no,measured web+app 30/09/2026,Seen only in app.
+Vocabulary,th,คำศัพท์,proposed,label,no,measured web+app 30/09/2026,Seen only in app.
+Vocabulary,vi,Vốn từ vựng (app) | Từ vựng (app),conflict,label,no,measured web+app 30/09/2026,
+Vocabulary,zh-Hans,词汇,proposed,label,no,measured web+app 30/09/2026,Seen only in app.
+Vocabulary,zh-Hant,詞彙,proposed,label,no,measured web+app 30/09/2026,Seen only in app.
+Writing,zh-Hant,寫作,approved,word,no,"TW local team, TW_Localization feedback (Sep 2026)",Skill name.

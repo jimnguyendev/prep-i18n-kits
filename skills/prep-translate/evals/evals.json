@@ -1,0 +1,33 @@
+{
+  "skill_name": "prep-translate",
+  "evals": [
+    {
+      "id": 1,
+      "name": "web-four-keys-preview",
+      "cwd": "/Users/admin/workspaces/prep-fe/practice-lab-web",
+      "prompt": "dịch lại giúp mình 4 key này sang vi, th, zh-Hans: pricing.plan_core_name, trial.analyze_retry, dashboard.card_test_count, chrome.menu_logout. Chỉ xem trước thôi, chưa ghi lên Tolgee.",
+      "expected_output": "Validated translations file for 12 key×lang pairs, plural uses only the other branch with #, Core flagged as open web/app decision, report lists reuse vs new and nothing written.",
+      "files": []
+    },
+    {
+      "id": 4,
+      "name": "ko-new-landing-strings",
+      "cwd": "/Users/admin/workspaces/prep-fe/practice-lab-web",
+      "prompt": "Team KR sắp review landing mới. Dịch trước giúp mình mấy chuỗi mới này sang tiếng Hàn (chưa có key trong repo): /Users/admin/workspaces/prep-fe/prep-i18n-kit-workspace/iteration-2/inputs/ko-strings.json",
+      "expected_output": "7 Korean strings following KR-team corrections: 시험 자료실 not 라이브러리, '8.0 달성' number-first, Western name kept in Latin, attempt as 응시 not 시도, no literal credit-card sentence, Lexical Resource as 어휘 사용 능력, headline transcreated.",
+      "files": [
+        "inputs/ko-strings.json"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "zh-hant-tw-new-strings",
+      "cwd": "/Users/admin/workspaces/prep-fe/practice-lab-web",
+      "prompt": "Translate these new strings into Traditional Chinese for Taiwan before the TW team reviews them: /Users/admin/workspaces/prep-fe/prep-i18n-kit-workspace/iteration-2/inputs/tw-strings.json",
+      "expected_output": "7 zh-Hant strings following TW-team choices: 你 not 您, 雅思 for IELTS, 口說/聽力, date 2027/12/31, Vietnamese name without diacritics, Premium kept Latin with a space before 12, Try again = 再試一次.",
+      "files": [
+        "inputs/tw-strings.json"
+      ]
+    }
+  ]
+}

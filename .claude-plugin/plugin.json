@@ -1,0 +1,11 @@
+{
+  "name": "prep-i18n",
+  "version": "0.1.0",
+  "description": "Prep-wide UI translation for every team and repo: shared glossary, style guide, local-market approvals, cross-product matching, Tolgee write-back.",
+  "author": {
+    "name": "Prep"
+  },
+  "skills": [
+    "./skills/"
+  ]
+}

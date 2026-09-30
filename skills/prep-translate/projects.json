@@ -1,0 +1,61 @@
+{
+  "sourceLanguage": "en",
+  "targetLanguages": [
+    "vi",
+    "th",
+    "id",
+    "ko",
+    "ja",
+    "zh-Hans",
+    "zh-Hant"
+  ],
+  "projects": {
+    "web": {
+      "label": "Practice Lab web (practice-lab-web)",
+      "repoDirName": "practice-lab-web",
+      "tolgee": {
+        "apiUrl": "https://tolgee.testsprep.online",
+        "projectId": 2,
+        "apiKeyEnv": "TOLGEE_API_KEY",
+        "languageTags": {
+          "zh-Hans": "zh-hans",
+          "zh-Hant": "zh-hant"
+        }
+      },
+      "files": {
+        "dir": "apps/ielts-portal/src/locales",
+        "format": "i18next",
+        "fileTags": {
+          "zh-Hans": "zh-hans",
+          "zh-Hant": "zh-hant"
+        }
+      },
+      "codeGlobs": [
+        "apps/ielts-portal/src/*.ts",
+        "apps/ielts-portal/src/*.tsx"
+      ],
+      "writeRule": "Tolgee only. docs/I18N.md §1 rule 3 forbids editing target locale files by hand; values reach the repo through the CDN sync.",
+      "gitRemote": "learning/practice-lab-web"
+    },
+    "app": {
+      "label": "prep-app (Flutter, easy_localization)",
+      "repoDirName": "prep-app",
+      "tolgee": {
+        "apiUrl": "https://tolgee.testsprep.online",
+        "projectId": null,
+        "apiKeyEnv": "TOLGEE_APP_API_KEY",
+        "languageTags": {}
+      },
+      "files": {
+        "dir": "lib/assets/l10n",
+        "format": "easy_localization"
+      },
+      "codeGlobs": [
+        "lib/*.dart"
+      ],
+      "writeRule": "No Tolgee project yet (still on Crowdin). Deliver the validated translations file to the app team; do not edit lib/assets/l10n directly.",
+      "gitRemote": "learning/mobile/prep-app"
+    }
+  },
+  "_howToAddAProject": "Add an entry under projects: gitRemote (GitLab path that identifies the checkout), repoDirName (usual folder name), tolgee {apiUrl, projectId or null, apiKeyEnv, languageTags}, files {dir, format: i18next|easy_localization|icu, fileTags}, codeGlobs, writeRule."
+}
