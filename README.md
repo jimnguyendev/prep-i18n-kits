@@ -16,18 +16,17 @@ writes back to Tolgee as TRANSLATED (never REVIEWED, never Published).
 Per person, once (works in any repo afterwards):
 
 ```sh
-# local checkout
-claude plugin marketplace add /path/to/prep-i18n-kit
+claude plugin marketplace add jimnguyendev/prep-i18n-kits
 claude plugin install prep-i18n@prep-i18n
-
-# or, once this repo is on GitLab
-claude plugin marketplace add <gitlab url of prep-i18n-kit>
 ```
 
-Try without installing: `claude --plugin-dir /path/to/prep-i18n-kit`.
+Update later with `claude plugin marketplace update prep-i18n`, then restart
+Claude Code. Try without installing: `claude --plugin-dir /path/to/prep-i18n-kits`.
 
 Then, in a product repo: "dịch các key mới trong nhánh này" or
 "fill missing Thai translations".
+
+Decisions and the sources behind them: [docs/adr/](docs/adr/README.md).
 
 ## Supported repos
 
